@@ -1,3 +1,5 @@
 # hello-world
-My first git tutorial.\n
+My first git tutorial
+
+
 This is the first branch commit.
